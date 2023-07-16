@@ -1,4 +1,4 @@
-<p align="center">TODO-LIST</p>
+<h1 align="center">TODO-LIST</h1>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
